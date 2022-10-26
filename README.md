@@ -14,11 +14,11 @@ Though there are many ways marketers use facial coding, from testing their UI/UX
 The war of capturing consumers’ attention is becoming more intense in this digital-first world. Do you know consumers see more than 10,000 ads a day, making it tough to draw their attention? But attention alone is not the answer.
 
 ### Generate Accurate Consumer Insights in Real-Time   
-We all know that [customer experience]([url](https://entropiktech.com/affect-lab/)) (CX) is a critical component of the business ecosystem; a flawless CX can help drive repeat business and, ultimately, brand loyalty. To deliver a flawless CX, marketers need to better understand both existing and potential customers, and traditional research methods cannot do that. 
+We all know that [customer experience](https://entropiktech.com/affect-lab/) (CX) is a critical component of the business ecosystem; a flawless CX can help drive repeat business and, ultimately, brand loyalty. To deliver a flawless CX, marketers need to better understand both existing and potential customers, and traditional research methods cannot do that. 
 
 ### Optimize Your Product Packaging
 Every marketer knows that product packaging could make or break the product’s success. And good packaging has a significant impact on shoppers’ experience. If the product packaging does not connect to a consumer’s heart, they will not drop the product into their shopping cart. So, as a marketer, you are faced with the daunting task of optimizing your product packaging – one that makes a bold statement about your product.
 
 ## Reference
-**[Facial Coding]([url](https://entropiktech.com/blogs/facial-coding-what-why-and-how-to-use-facial-coding-in-marketing/)**
-**[Facial Coding Technology]([url](https://entropiktech.com/facial-coding-technology/))**
+* **[Facial Coding](https://entropiktech.com/blogs/facial-coding-what-why-and-how-to-use-facial-coding-in-marketing/)**
+* **[Facial Coding Technology](https://entropiktech.com/facial-coding-technology/)**
