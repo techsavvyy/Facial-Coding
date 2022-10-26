@@ -20,5 +20,5 @@ We all know that [customer experience]([url](https://entropiktech.com/affect-lab
 Every marketer knows that product packaging could make or break the product’s success. And good packaging has a significant impact on shoppers’ experience. If the product packaging does not connect to a consumer’s heart, they will not drop the product into their shopping cart. So, as a marketer, you are faced with the daunting task of optimizing your product packaging – one that makes a bold statement about your product.
 
 ## Reference
-**[Facial Coding]([url](https://entropiktech.com/blogs/facial-coding-what-why-and-how-to-use-facial-coding-in-marketing/))**
+**[Facial Coding]([url](https://entropiktech.com/blogs/facial-coding-what-why-and-how-to-use-facial-coding-in-marketing/)**
 **[Facial Coding Technology]([url](https://entropiktech.com/facial-coding-technology/))**
